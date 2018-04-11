@@ -1,2 +1,2 @@
 # BinarySearchTree
-A two forked tree full of annotations
+The first learning algorithm, the two fork tree, contains the notes I learned.
